@@ -8,7 +8,7 @@
 
 - 👨‍💻 My Portfolio [www.luckymaharjan.com.np](https://www.luckymaharjan.com.np).
 
-- <img align="center" alt="Email" width="26px" src="https://img.icons8.com/clouds/100/000000/email.png" /> How to reach me? Through social media or simply email.
+- <img align="center" alt="Email" width="26px" src="https://img.icons8.com/clouds/100/000000/email.png" /> How to reach me? Through <a href="https://www.facebook.com/lucky.buluce2000">social media </a> or <a href="mailto:luckymaharjan5@gmail.com">simply email.</a>
 
 
 <h3 align="left">Connect with me:👇</h3>
