@@ -2,7 +2,7 @@
 
 ## I'm a Student, Tech Enthusiastic, Web Developer!
 
-<h3 align="left">Talking about Personal Stuffs:</h3>
+<h3 align="left">About: 🙋🏻‍♂️</h3>
 
 - <img align="center" alt="Learning" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/learning.png" /> I’m currently learning MERN Stacks. 
 
@@ -11,7 +11,7 @@
 - <img align="center" alt="Email" width="26px" src="https://img.icons8.com/clouds/100/000000/email.png" /> How to reach me? Through social media or simply email.
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:👇</h3>
 <p align="left">
 <a href="https://www.facebook.com/lucky.buluce2000/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luckymaharjan" height="20" width="30" /></a>
 <a href="https://www.instagram.com/lucky_mhj/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luckymaharjan" height="20" width="30" /></a>
@@ -19,7 +19,7 @@
 
 
 <br>
-<h3 align="left"> Languages, Tools and Technologies:</h3>
+<h3 align="left"> Languages, Tools and Technologies: 👨‍💻</h3>
 <p align="left">
 
 
@@ -76,16 +76,3 @@
 
 
 
-<!---
-- 👋 Hi, I’m @Lucky-Maharjan
-- 👀 I’m interested in MERN Stack
-<!-- - 🌱 I’m currently learning Nodejs -->
-  <!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
-<!---
-Lucky-Maharjan/Lucky-Maharjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
