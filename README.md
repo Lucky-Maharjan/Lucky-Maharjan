@@ -81,6 +81,7 @@
 - 👋 Hi, I’m @Lucky-Maharjan
 - 👀 I’m interested in MERN Stack
 <!-- - 🌱 I’m currently learning Nodejs -->
+  <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
