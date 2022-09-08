@@ -1,6 +1,6 @@
 # Namaste, I'm Lucky Maharjan. <img src="https://media.giphy.com/media/uUlz4hzm20jFUMxnBi/giphy.gif" width="35px">
 
-## I'm a Student, Web Developer!
+## I'm a Student, Web Developer, etc.
 
 <h3 align="left">About: 🙋🏻‍♂️</h3>
 
