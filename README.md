@@ -9,7 +9,6 @@
 - 👨‍💻 My Portfolio [www.luckymaharjan.com.np](https://www.luckymaharjan.com.np).
 
 - <img align="center" alt="Email" width="26px" src="https://img.icons8.com/clouds/100/000000/email.png" /> How to reach me? Through social media or simply email.
-<br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -18,7 +17,7 @@
 <a href="https://www.instagram.com/lucky_mhj/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luckymaharjan" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/lucky-maharjan-6bbaa51ba/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luckymaharjan" height="20" width="30" /></a>
 
-<br />
+
 <br>
 <h3 align="left"> Languages, Tools and Technologies:</h3>
 <p align="left">
