@@ -30,6 +30,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" />
 <img align="left" alt="ES6" width="26px" src="https://cdn.worldvectorlogo.com/logos/es6.svg" title="ES6" />
 <img align="left" alt="react" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" />
+ <img align="left" alt="TypeScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" />
+
 <img align="left" alt="redux" width="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" title="PHP" />
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="MySQL" />
@@ -48,8 +50,7 @@
 
 
 
-<!-- 
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="TypeScript" /> -->
+
 
 
 
