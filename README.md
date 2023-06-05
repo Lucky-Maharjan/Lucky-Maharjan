@@ -4,9 +4,9 @@
 
 <h3 align="left">About: 🙋🏻‍♂️</h3>
 
-- <img align="center" alt="Learning" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/learning.png" /> I’m currently learning MERN Stacks. 
-
-- 👨‍💻 My Portfolio [www.luckymaharjan.com.np](https://www.luckymaharjan.com.np).
+<!-- - <img align="center" alt="Learning" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/learning.png" /> I’m currently learning MERN Stacks. 
+ -->
+<!-- - 👨‍💻 My Portfolio [www.luckymaharjan.com.np](https://www.luckymaharjan.com.np). -->
 
 - <img align="center" alt="Email" width="26px" src="https://img.icons8.com/clouds/100/000000/email.png" /> How to reach me? Through <a href="https://www.facebook.com/lucky.buluce2000">social media </a> or simply<a href="mailto:luckymaharjan5@gmail.com"> email</a>.
 
